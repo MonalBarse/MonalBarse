@@ -9,7 +9,7 @@
 
 - 🔭I am proficient in **HTML, CSS, JS, NodeJS, MongoDB & expressJS**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **monalworkmail@gmail.com**
 
