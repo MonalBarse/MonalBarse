@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Monal Barse</h1>
 
 <h3 align="center">I am a student aspiring to become a Full-Stack Developer!</h3>
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4797v9r63wmelvzm4tzsjv5seuqkquy900l7onxxcm&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="740" alt="">
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4797v9r63wmelvzm4tzsjv5seuqkquy900l7onxxcm&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="540" alt="">
 
 
 <p align="left"> <a href="https://twitter.com/monalbarse" target="blank"><img  src="https://img.shields.io/twitter/follow/monalbarse?logo=twitter&style=for-the-badge" alt="monalbarse" /></a> </p>
