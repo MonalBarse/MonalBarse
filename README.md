@@ -1,17 +1,19 @@
 
 ![MasterHead](https://preview.redd.it/ignore-for-my-git-v0-a1m991yttwqc1.png?width=1080&crop=smart&auto=webp&s=22df33632164c0a7f0b996394b26e1322f1fe0bd)
-<h1 align="center">Hi 👋, I'm Monal Barse</h1>
+<h1 align="center">Helo! I'm Monal</h1>
 
-<h3 align="center">I am a student aspiring to become a Full-Stack Developer!</h3>
+<h3 align="center">I am a fullstack developer and a penultimate at IIT Varanasi!</h3>
 
 
 <p align="left"> <a href="https://twitter.com/monalbarse" target="blank"><img  src="https://img.shields.io/twitter/follow/monalbarse?logo=twitter&style=for-the-badge" alt="monalbarse" /></a> </p>
 
-- 🔭I am proficient in **HTML, CSS, JS, NodeJS, MongoDB & expressJS**
+- 🔭I am proficient in **Javascript, TupeScript, React.js, Next.js, Node.js (Express, Hono), PostgresSQL, MongoDB**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **monalworkmail@gmail.com**
+
+- My resume [Link](https://jade-ginny-98.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monalbarse&show_icons=true&locale=en&layout=compact" alt="monalbarse" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monalbarse&show_icons=true&locale=en" alt="monalbarse" /></p>
+
