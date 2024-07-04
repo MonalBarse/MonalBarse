@@ -5,8 +5,14 @@
 <h3 align="center">I am a fullstack developer and a penultimate at IIT Varanasi!</h3>
 
 # 💫 About Me:
-IIT BHU | Consequently anhedonic | Web Developer | Debugging Life<br><br>🔭 I’m currently working on GoPay<br>🌱 I’m currently learning Golang<br>📫 How to reach me monalworkmail@gmail.com<br>⚡ Resume - https://jade-ginny-98.tiiny.site/<br>
-![pfp](https://www.reddit.com/user/Monal28/comments/1dv2z1j/ignore/#lightbox)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    IIT BHU | Consequently anhedonic | Web Developer | Debugging Life<br><br>🔭 I’m currently working on GoPay<br>🌱 I’m currently learning Golang<br>📫 How to reach me monalworkmail@gmail.com<br>⚡ Resume - <a href="https://jade-ginny-98.tiiny.site/">https://jade-ginny-98.tiiny.site/</a><br>
+  </div>
+  <div style="flex: 1;">
+    <img src="[https://www.reddit.com/user/Monal28/comments/1dv2z1j/ignore/#lightbox](https://i.redd.it/6v9uxreq2had1.png)" alt="pfp" style="max-width: 100%; height: auto;"/>
+  </div>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/momo.28__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/monal-barse-350901304/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@monalbarse) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Monal28/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MonalBarse) 
