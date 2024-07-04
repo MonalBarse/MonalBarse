@@ -1,7 +1,7 @@
 
 ![MasterHead](https://preview.redd.it/ignore-for-my-git-v0-a1m991yttwqc1.png?width=1080&crop=smart&auto=webp&s=22df33632164c0a7f0b996394b26e1322f1fe0bd)
 <h1 align="center">Hola! I'm Monal</h1>
-  <div >
+  <div align="center" >
     <img src="https://i.redd.it/6v9uxreq2had1.png" alt="pfp" style="height: 250px;"/>
   </div>
 
