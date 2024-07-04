@@ -10,7 +10,7 @@
     IIT BHU | Consequently anhedonic | Web Developer | Debugging Life<br><br>🔭 I’m currently working on GoPay<br>🌱 I’m currently learning Golang<br>📫 How to reach me monalworkmail@gmail.com<br>⚡ Resume - <a href="https://jade-ginny-98.tiiny.site/">https://jade-ginny-98.tiiny.site/</a><br>
   </div>
   <div style="flex: 1;">
-    <img src="[https://www.reddit.com/user/Monal28/comments/1dv2z1j/ignore/#lightbox](https://i.redd.it/6v9uxreq2had1.png)" alt="pfp" style="max-width: 100%; height: auto;"/>
+    <img src="https://i.redd.it/6v9uxreq2had1.png" alt="pfp" style="max-width: 100%; height: auto;"/>
   </div>
 </div>
 
