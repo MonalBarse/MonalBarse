@@ -1,6 +1,9 @@
 
 ![MasterHead](https://preview.redd.it/ignore-for-my-git-v0-a1m991yttwqc1.png?width=1080&crop=smart&auto=webp&s=22df33632164c0a7f0b996394b26e1322f1fe0bd)
 <h1 align="center">Hola! I'm Monal</h1>
+  <div >
+    <img src="https://i.redd.it/6v9uxreq2had1.png" alt="pfp" style="height: 250px;"/>
+  </div>
 
 <h3 align="center">I am a fullstack developer and a penultimate at IIT Varanasi!</h3>
 
@@ -9,9 +12,7 @@
   <div style="flex: 1;">
     IIT BHU | Consequently anhedonic | Web Developer | Debugging Life<br><br>🔭 I’m currently working on GoPay<br>🌱 I’m currently learning Golang<br>📫 How to reach me monalworkmail@gmail.com<br>⚡ Resume - <a href="https://jade-ginny-98.tiiny.site/">https://jade-ginny-98.tiiny.site/</a><br>
   </div>
-  <div style="flex: 0 0 auto; margin-left: 20px;">
-    <img src="https://i.redd.it/6v9uxreq2had1.png" alt="pfp" style="height: 100px;"/>
-  </div>
+
 </div>
 
 ## 🌐 Socials:
