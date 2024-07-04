@@ -1,6 +1,6 @@
 
 ![MasterHead](https://preview.redd.it/ignore-for-my-git-v0-a1m991yttwqc1.png?width=1080&crop=smart&auto=webp&s=22df33632164c0a7f0b996394b26e1322f1fe0bd)
-<h1 align="center">Helo! I'm Monal</h1>
+<h1 align="center">Hola! I'm Monal</h1>
 
 <h3 align="center">I am a fullstack developer and a penultimate at IIT Varanasi!</h3>
 
