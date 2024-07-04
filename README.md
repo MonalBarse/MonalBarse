@@ -5,11 +5,11 @@
 <h3 align="center">I am a fullstack developer and a penultimate at IIT Varanasi!</h3>
 
 # 💫 About Me:
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<div style="display: flex">
+  <div>
     IIT BHU | Consequently anhedonic | Web Developer | Debugging Life<br><br>🔭 I’m currently working on GoPay<br>🌱 I’m currently learning Golang<br>📫 How to reach me monalworkmail@gmail.com<br>⚡ Resume - <a href="https://jade-ginny-98.tiiny.site/">https://jade-ginny-98.tiiny.site/</a><br>
   </div>
-  <div style="flex: 1;">
+  <div >
     <img src="https://i.redd.it/6v9uxreq2had1.png" alt="pfp" style="height: 100px;"/>
   </div>
 </div>
