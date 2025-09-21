@@ -10,7 +10,7 @@
 # 💫 About Me:
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    IIT BHU | Consequently anhedonic | Web Developer | Debugging Life<br><br>🔭 I’m currently working on<a href="https://github.com/MonalBarse/NimbusFS/"> <b>NimbusFS</b> </a><br>🌱 I’m currently learning Golang<br>📫 How to reach me monalworkmail@gmail.com<br>⚡ Resume - <a href="https://jade-ginny-98.tiiny.site/">https://jade-ginny-98.tiiny.site/</a><br>
+    IIT BHU | Consequently anhedonic | Web Developer | Debugging Life<br><br>🔭 I’m currently working on<a href="https://github.com/MonalBarse/NimbusFS/"> <b>NimbusFS</b> </a><br>🌱 I’m currently learning Golang<br>📫 How to reach me monalworkmail@gmail.com<br>⚡ Resume - [<a href="https://jade-ginny-98.tiiny.site/">https://jade-ginny-98.tiiny.site/</a>](https://resume-monal.tiiny.site/)<br>
   </div>
 
 </div>
