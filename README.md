@@ -1,5 +1,3 @@
-
-![MasterHead](https://preview.redd.it/ignore-for-my-git-v0-a1m991yttwqc1.png?width=1080&crop=smart&auto=webp&s=22df33632164c0a7f0b996394b26e1322f1fe0bd)
 ![MasterHead](https://github.com/MonalBarse/MonalBarse/blob/main/assets/github1.jpg?raw=true)
 
 <h1 align="center">Hola! I'm Monal</h1>
